@@ -223,7 +223,7 @@ Confidence: Real: 97.12% | Fake: 2.88%
 * Shows confidence levels
 
 ## Dataset
-The app uses a sample of the [Real vs. Fake Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+The app uses a sample of the [Real vs. Fake Dataset](https://drive.google.com/file/d/1JFejztRx280sYs5bdd6Fe99ly3bH7DHi/view?usp=sharing).
 
 ---
 

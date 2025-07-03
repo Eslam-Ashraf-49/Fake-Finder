@@ -222,6 +222,9 @@ Confidence: Real: 97.12% | Fake: 2.88%
 * Displays if image is Real or Fake
 * Shows confidence levels
 
+## Dataset
+The app uses a sample of the [Real vs. Fake Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+
 ---
 
 ## Team and Contributions
